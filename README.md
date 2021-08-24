@@ -1,1 +1,0 @@
-Open weather map API was used to get the details of weather using user location through GPS or when user enters their location manually 
